@@ -1,3 +1,3 @@
-# dropstar-api
+# Sale Voucher Creation and Store
 
-## Set up installations
+
